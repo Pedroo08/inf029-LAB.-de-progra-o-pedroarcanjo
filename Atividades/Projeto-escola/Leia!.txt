@@ -1,0 +1,4 @@
+
+* Fiz o trabalho sozinho
+* aconteceu 1 na função de cadastrar alunos numa disciplina as só aparece quando
+a função é executada.
